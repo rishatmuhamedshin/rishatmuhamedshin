@@ -5,6 +5,7 @@
 ## Languages and Tools
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="html" alt="html" width="60" height="60"/>&nbsp;
