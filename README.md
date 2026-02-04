@@ -1,6 +1,6 @@
 [![Header](https://github.com/rishatmuhamedshin/rishatmuhamedshin/blob/main/assest/6184e9fd60cce871-.gif)](https://vk.com/rishat420)
 
-## My name is Rishat, i am junior java developer.
+## My name is Rishat, i am java developer.
 
 ## Languages and Tools
 <!-- https://github.com/devicons/devicon/tree/master/icons -->
